@@ -30,4 +30,4 @@ https://thesilkpincushionboutique.com/product/singer-sewing-machine-1-4-high-sha
 55688H is high shank, center position
 
 TBD: do Kenmore feet work here? Seems like a lot were left basis. Ordered a set of hemming feet to find out.
-
+A: no -- they are super high shank, imcompatible.
