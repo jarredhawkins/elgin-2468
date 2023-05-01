@@ -6,7 +6,7 @@ https://www.reddit.com/r/vintagesewing/comments/dh5ale/just_inherited_this_sewin
 
 https://www.youtube.com/watch?v=VgRKeIurVfY
 
-There's a manual committed inside of this repo which also contains threading + oiling info.
+There's a [manual](./ELGIN2468InstructionBooklet.pdf) committed inside of this repo which also contains threading + oiling info.
 
 ## Presser feet
 
