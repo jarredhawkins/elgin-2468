@@ -68,3 +68,9 @@ I got lucky and found an ebay auction in short time for them.
 For those not as lucky as me, you should be able to look for a set that looks like this photo:
 
 ![image](https://user-images.githubusercontent.com/9409193/235413445-310432f2-36da-43f2-b5e0-4040534b078a.png)
+
+### 3D printing a cam to make the machine center homing
+
+This is an idea I saw floating somewhere in a Facebook group.
+
+I haven't had the need/time to take this up, but this could be a very interesting project.
