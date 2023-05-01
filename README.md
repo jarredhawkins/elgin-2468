@@ -12,14 +12,16 @@ There's a [manual](./ELGIN2468InstructionBooklet.pdf) committed inside of this r
 
 Machine is high-shank left homing needle position. Tough to find presser feet for these.
 
-5561 (narrow hemming) [example listing](https://www.ebay.com/itm/191943009426)
+5561 (narrow hemming) 
+  - [example listing](https://www.ebay.com/itm/191943009426)
 
 5557 (straight stitch narrow):
-  [unknown if this works] [listing 1](https://www.sewingpartsonline.com/straight-stitch-foot-high-left-narrow-5557.aspx)
-  [never shipped] [listing 2](https://ultimatesewingandvac.com/product/foot-straight-stitch-high-left-position-narrow/)
-  [worked] [listing 3](https://www.seweasysewing.com/shop/c/p/Straight-Stitch-Foot-High-Left-Narrow-5557-x23638148.htm)
+  - [unknown if this seller works] [listing 1](https://www.sewingpartsonline.com/straight-stitch-foot-high-left-narrow-5557.aspx)
+  - [never shipped] [listing 2](https://ultimatesewingandvac.com/product/foot-straight-stitch-high-left-position-narrow/)
+  - [worked] [listing 3](https://www.seweasysewing.com/shop/c/p/Straight-Stitch-Foot-High-Left-Narrow-5557-x23638148.htm)
 
-ruffler: [listing](https://www.allbrands.com/categories/673/7770-alphasew-55620-high-shank-screw-on-ruffler-shirrin)
+ruffler: 
+  - [listing](https://www.allbrands.com/categories/673/7770-alphasew-55620-high-shank-screw-on-ruffler-shirrin)
 
 
 ### Wide high shank straight stitch left position presser foot
@@ -28,15 +30,16 @@ Based on [this listing](https://thesilkpincushionboutique.com/product/singer-sew
 , I managed to get a successful working order in.
 
 BP1819 or 55621 is the part number. 
-Outer bag was branded "Brewer Quilting and Sewing", "Reorder number #BP1819". 
-Inside the bag was labeled "55621". 
-Both probably work, but not sure of a reliable source to get them yet.
+  - Outer bag was branded "Brewer Quilting and Sewing", "Reorder number #BP1819". 
+  - Inside the bag was labeled "55621". 
+  - Both probably work, but not sure of a reliable source to get them yet.
 
 Also tried [ultimatesewingandvac.com](https://ultimatesewingandvac.com/product/foot-straight-stitch-high-shank-left-position-wide/)
 but they never shipped my order out.
 
-55605/BP1818 is wide, low shank foot (could use adapter)
-55688H is high shank, center position
+Similar feet:
+  - 55605/BP1818 is wide, low shank foot (could use adapter)
+  - 55688H is high shank, center position
 
 ### Kenmore feet
 
