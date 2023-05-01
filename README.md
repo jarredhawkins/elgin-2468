@@ -1,33 +1,63 @@
 # elgin-2468
 
-## info
+## Info
 
 https://www.reddit.com/r/vintagesewing/comments/dh5ale/just_inherited_this_sewing_machine_and_super/
 
 https://www.youtube.com/watch?v=VgRKeIurVfY
 
-## presser feet
+There's a manual committed inside of this repo which also contains threading + oiling info.
+
+## Presser feet
 
 Machine is high-shank left homing needle position. Tough to find presser feet for these.
 
 5561 (narrow hemming) [example listing](https://www.ebay.com/itm/191943009426)
 
 5557 (straight stitch narrow):
-  [listing 1](https://www.sewingpartsonline.com/straight-stitch-foot-high-left-narrow-5557.aspx)
-  [listing 2](https://ultimatesewingandvac.com/product/foot-straight-stitch-high-left-position-narrow/)
+  [unknown if this works] [listing 1](https://www.sewingpartsonline.com/straight-stitch-foot-high-left-narrow-5557.aspx)
+  [never shipped] [listing 2](https://ultimatesewingandvac.com/product/foot-straight-stitch-high-left-position-narrow/)
+  [worked] [listing 3](https://www.seweasysewing.com/shop/c/p/Straight-Stitch-Foot-High-Left-Narrow-5557-x23638148.htm)
 
 ruffler: [listing](https://www.allbrands.com/categories/673/7770-alphasew-55620-high-shank-screw-on-ruffler-shirrin)
 
+
 ### Wide high shank straight stitch left position presser foot
 
-BP1819 or 55621 seems to be the part number, can't find much online. Ordered both of these and will update:
+Based on [this listing](https://thesilkpincushionboutique.com/product/singer-sewing-machine-1-4-high-shank-straight-stitch-left-position-foot-wide-bp1819/#)
+, I managed to get a successful working order in.
 
-https://ultimatesewingandvac.com/product/foot-straight-stitch-high-shank-left-position-wide/
+BP1819 or 55621 is the part number. 
+Outer bag was branded "Brewer Quilting and Sewing", "Reorder number #BP1819". 
+Inside the bag was labeled "55621". 
+Both probably work, but not sure of a reliable source to get them yet.
 
-https://thesilkpincushionboutique.com/product/singer-sewing-machine-1-4-high-shank-straight-stitch-left-position-foot-wide-bp1819/#
+Also tried [ultimatesewingandvac.com](https://ultimatesewingandvac.com/product/foot-straight-stitch-high-shank-left-position-wide/)
+but they never shipped my order out.
 
 55605/BP1818 is wide, low shank foot (could use adapter)
 55688H is high shank, center position
 
-TBD: do Kenmore feet work here? Seems like a lot were left basis. Ordered a set of hemming feet to find out.
-A: no -- they are super high shank, imcompatible.
+### Kenmore feet
+
+Do Kenmore feet work here? Seems like a lot were left basis. Ordered a set of hemming feet to find out.
+Turns out no -- they are super high shank, imcompatible. Listing was wrong.
+
+Searching for a "high shank hemming foot kit" doesn't yield anything compatible. It seems hemming feet
+only ever came in kits for super high or low shank machines. Guess it's back to the iron for me...
+
+## Bobbin winder
+
+There's a rubber tire that mounts on this. To reorder for my machine, the following search worked:
+
+"Bobbin Winder Rubber Tire Ring - Standard #15287"
+
+There's a lot of options here, so search and find whatever works for you.
+
+## Cams
+
+I got lucky and found an ebay auction in short time for them.
+
+For those not as lucky as me, you should be able to look for a set that looks like this photo:
+
+![image](https://user-images.githubusercontent.com/9409193/235413445-310432f2-36da-43f2-b5e0-4040534b078a.png)
