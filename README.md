@@ -2,11 +2,15 @@
 
 ## Info
 
+Not a lot of information exists online about this machine, so I'm hoping to document what I've uncovered in one spot.
+
 https://www.reddit.com/r/vintagesewing/comments/dh5ale/just_inherited_this_sewing_machine_and_super/
 
 https://www.youtube.com/watch?v=VgRKeIurVfY
 
 There's a [manual](./ELGIN2468InstructionBooklet.pdf) committed inside of this repo which also contains threading + oiling info.
+
+![image](https://user-images.githubusercontent.com/9409193/235413814-88e49844-2a86-4459-ad29-76f972ba5e73.png)
 
 ## Presser feet
 
